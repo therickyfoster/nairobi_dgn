@@ -1,12 +1,3 @@
-* Establish **purpose + mission** (why Nairobi, why now).
-* Anchor **continuity + branching rules** (how it cascades outward).
-* Provide **symbolic resonance** (so it feels like history in the making).
-* Stay **obfuscated** on mechanics (no “how-to” details, just intent and guardrails).
-
-Here’s the draft:
-
----
-
 # 🌍 Distributed Genius Network
 
 ### Node-001: Nairobi Manifest
