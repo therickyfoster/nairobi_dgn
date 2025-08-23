@@ -1,4 +1,4 @@
-[* Establish **purpose + mission** (why Nairobi, why now).
+* Establish **purpose + mission** (why Nairobi, why now).
 * Anchor **continuity + branching rules** (how it cascades outward).
 * Provide **symbolic resonance** (so it feels like history in the making).
 * Stay **obfuscated** on mechanics (no “how-to” details, just intent and guardrails).
@@ -101,4 +101,4 @@ It is not a blueprint, nor a technical document. It is a declaration of intent:
 
 ✨ This is written to be **drop-ready** as a `.md` or `.pdf`. It declares without revealing, and it carries both mythic weight and structural clarity.
 
-](https://claude.ai/public/artifacts/1235f894-e211-4ef7-9eda-41202fa3b831)
+(https://claude.ai/public/artifacts/1235f894-e211-4ef7-9eda-41202fa3b831)
